@@ -20,7 +20,8 @@ https://reqres.in
 Some endpoints required an API key so i added this API key:
 
 HEADER:
-Key: x-api-key
+Key: x-api-key  
+
 Value: reqres-free-v1
 
 ## API Endpoints Covered
@@ -48,7 +49,10 @@ function generateLogin(email, password) {
 }
 
 ## How to Run
-Open Postman → Import the collection file
-Add x-api-key in header for each request
-Run all requests via Collection Runner
+Open Postman → Import the collection file  
+
+Add x-api-key in header for each request  
+
+Run all requests via Collection Runner  
+
 
