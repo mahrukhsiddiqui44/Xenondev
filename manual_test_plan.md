@@ -1,5 +1,5 @@
-                                    ## Project Title ##
-                                 **Mobile Banking App** 
+                                     Project Title 
+                                    MOBILE BANKING APP
                                      **TEST PLAN**  
                                     <18th June, 2025>  
 
