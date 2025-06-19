@@ -41,8 +41,10 @@ Edge Case: Deleting non-existent user still returns 204
 Used a helper function in Pre-request Script to dynamically generate login payload:
 
 
-function generateLogin(email, password) {
-  return JSON.stringify({ email, password });
+function generateLogin(email, password) {  
+
+  return JSON.stringify({ email, password });  
+  
 }
 
 ## How to Run
