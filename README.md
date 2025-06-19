@@ -19,7 +19,8 @@ https://reqres.in
 ## Authorization
 Some endpoints required an API key so i added this API key:
 
-HEADER:
+**HEADER:**  
+
 Key: x-api-key  
 
 Value: reqres-free-v1
