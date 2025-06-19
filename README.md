@@ -49,10 +49,10 @@ function generateLogin(email, password) {
 }
 
 ## How to Run
-Open Postman → Import the collection file  
+- Open Postman → Import the collection file  
 
-Add x-api-key in header for each request  
+- Add x-api-key in header for each request  
 
-Run all requests via Collection Runner  
+- Run all requests via Collection Runner  
 
 
