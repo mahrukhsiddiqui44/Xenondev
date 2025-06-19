@@ -15,7 +15,7 @@ Version History:
 
 ---
 
-TABLE OF CONTENTS:
+### TABLE OF CONTENTS:
 
 1- Scope of Testing  
 2- Test Scenarios & Cases  
