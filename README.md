@@ -4,25 +4,25 @@ This project shows my hands-on understanding of **API testing** using **Postman*
 
 ## PROJECT GOAL:
 
-- Test public API like real app
-- Cover both valid and invalid cases
-- Use assertions to check response
-- Reuse logic with Postman scripts
-- Learn how to structure small API test project
+- Test public API like real app  
+- Cover both valid and invalid cases  
+- Use assertions to check response  
+- Reuse logic with Postman scripts  
+- Learn how to structure small API test project  
 
 ## TOOLS USED:
 
-- **Postman** (for API request, response, assertions)
-- **pm.test()** (Postman’s built-in test scripting)
-- **Pre-request Script** (for reusable logic)
+- **Postman** (for API request, response, assertions)  
+- **pm.test()** (Postman’s built-in test scripting)  
+- **Pre-request Script** (for reusable logic)  
 
 ## 🔗 Base URL:
 
-https://reqres.in
-
+https://reqres.in  
 
 ## Authorization:
-Although Reqres is mostly public, in my case the API returned:
+
+In my case the API returned:
 
 ```json
 {
@@ -31,9 +31,8 @@ Although Reqres is mostly public, in my case the API returned:
 
 So I added an API key to all requests using headers:
 
-- Key: x-api-key
-- Value: reqres-free-v1
-
+Key: x-api-key
+Value: reqres-free-v1
 
 ##  API Endpoints Covered
 I tested 3 main endpoints from the Reqres API:
